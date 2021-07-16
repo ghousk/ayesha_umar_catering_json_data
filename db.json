@@ -1,0 +1,43 @@
+{
+    "experiences": [
+              {
+                  "title": "Redstone Connect Labs",
+                  "jobTitle": "Senior Android Developer",
+                  "startDate": "2015-06-01T09:00:00.000Z",
+                  "endDate": "2018-11-30T17:30:00.000Z",
+                  "achievements":"Agile planning for Backlog User Stories & sub-tasks into Epics & Sprints, Use of major libraries like Retrofit, Butterknife, Picasso, RxJava, RxAndroid, No network App usage via, and Realm DB implementation.  Product Flavour usage to support white-labeling App for multiple clients, Mentoring of a Junior Android Developer" 
+              },
+              {
+                  "title": "Engine Creative",
+                  "jobTitle": "Senior Android Developer",
+                  "startDate": "2014-10-01T09:00:00.000Z",
+                  "endDate": "2015-04-01T17:30:00.000Z",
+                  "achievements":"Developed Ogle, iSee, Tesco Discover and Capita Cummins Android Apps on entirely Greenfield projects.  Augmented Reality Apps based on Metaio AR SDK (SDK & Cloud Plugin), implemented in Java.  Fragments, Navigation Drawer, Action Bar and AREL Webview based UI Design and implementation.  Implementation of a multi fragment based central UI, utilizing DrawerLayout and Framelayout widgets.  Integrated App to Google Maps, Gimbal, Google LBS, Shutterbug, Crashlytics, Picasso & Google Analytics.  Rest API integration using Spring Frameworks, JSON to Object conversion.  XML to Object conversion.  SN Integration, including Facebook and Twitter.  Implementation includes Facebook login, reading and adding Likes for channels and Webpages using OpenGraph Likes.  Sharing on Facebook and Twitter.  Follow on Twitter & Rating of App.  Setting up Apps on the Facebook and Twitter Development Consoles.  " 
+              },
+              {
+                  "title": "BoomBox+",
+                  "jobTitle": "Senior IT Developer + Requirements Analyst + UX/UI Designer + PM",
+                  "startDate": "2014-02-01T09:00:00.000Z",
+                  "endDate": "2014-09-01T17:30:00.000Z",
+                  "achievements":"Running an Android Media Streaming project (Tablet based with hardware casing & keys) in its entirety.  User requirements gathering & transformation to System Design & Component level design.  Prototyping of various UI techniques, including List Fragments, Gestures, View-Pager.  Implementation of final UI using ViewPager and Fragments. UI Designed for multiple devices, using 600/700dp schemes. Customized ViewPager to add cyclic scroll and intercept onPageScrolled events. " 
+              },
+              {
+                  "title": "Blippar Ltd",
+                  "jobTitle": "Software Engineer + UX/UI Specialist + IT Services Manager",
+                  "startDate": "2013-02-01T09:00:00.000Z",
+                  "endDate": "2013-12-31T17:30:00.000Z",
+                  "achievements":"Features development in the Blippar iOS and Android App using Obj C, Java and C++ " 
+              }
+    ],
+
+    "person" : 
+      {
+          "name": "Ghous Khan",
+          "imageUrl": "file:///android_asset/fakedata/images/ghous.png",
+          "mobile": "07678984735",
+          "email": "myemail@provider.com",
+          "qualification": "BENG Electronics with Computing & Business",
+          "summary": "An experienced Software Consultant  with strong design, development and problem solving skills, who is enthusiastic about meeting tight deadlines and targets in cutting edge technological environments.  Capable of finding solutions to complex problems.  Possessing Android, iOS, MAC, Windows, Linux & UNIX OS Agile development experience. Good ISO 9000 TickIT quality background.  Also possessing Team Lead experience with many years of mentoring junior engineers along with Code review and release management experience.",
+          "technicalKnowledge": "MVP architecture using RxJava2, Dagger2, RxBinding2 using Kotlin implementation experience, Development of new features using Kotlin, Extensive experience with Retrofit and okHttp3 also Network Volley on Legacy Apps.  Experience using Picasso, Experience of implementing several design patterns including Observer, Abstract Factory, Factory, Singleton, Builder, Adapter, Chain of Responsibility, Bridge.  Experience of writing Clean and testable code. Experience of Story & Task breakdown, Sprint & Epic planning.  Agile and TDD, Requirements Elicitation, Architectural Design & Detailed Design.  Software implementation experience using OO Java & C++.  Android & iOS App Development experience.  Full Android application design and implementation experience from Greenfield to Play Store delivery.  Management of external suppliers and Team Lead experience"
+      }
+}
