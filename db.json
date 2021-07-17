@@ -2,35 +2,99 @@
     "starters": [
               {
                   "id": "1",
-                  "title": "Chicken paratha roll",
+                  "title": "Chicken Paratha Roll",
                   "quantity": "3",
                   "price": "10",
-                  "img_url": "",
-                  "hero_img":"" 
+                  "img_url": "file:///android_asset/fakedata/images/1001.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2001.jpg" 
               },
               {
                   "id": "2",
-                  "title": "Chicken paratha roll",
-                  "quantity": "3",
+                  "title": "Chicken Shami Kebab",
+                  "quantity": "4 pcs",
                   "price": "10",
-                  "img_url": "",
-                  "hero_img":"" 
+                  "img_url": "file:///android_asset/fakedata/images/1002.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2002.jpg"
               },
               {
                   "id": "3",
-                  "title": "Chicken paratha roll",
-                  "quantity": "3",
-                  "price": "10",
-                  "img_url": "",
-                  "hero_img":"" 
+                  "title": "Beef Shami Kebab",
+                  "quantity": "12 pcs",
+                  "price": "24",
+                  "img_url": "file:///android_asset/fakedata/images/1003.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2003.jpg"
               },
               {
                   "id": "4",
-                  "title": "Chicken paratha roll",
-                  "quantity": "3",
-                  "price": "10",
-                  "img_url": "",
-                  "hero_img":""
+                  "title": "Chicken Samosa",
+                  "quantity": "12 pcs",
+                  "price": "12",
+                  "img_url": "file:///android_asset/fakedata/images/1004.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2004.jpg"
+              },
+              {
+                  "id": "5",
+                  "title": "Beef Samosa",
+                  "quantity": "12 pcs",
+                  "price": "20",
+                  "img_url": "file:///android_asset/fakedata/images/1005.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2005.jpg"
+              },
+              {
+                  "id": "6",
+                  "title": "Spring Roll",
+                  "quantity": "12 pcs",
+                  "price": "12",
+                  "img_url": "file:///android_asset/fakedata/images/1006.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2006.jpg"
+              },
+              {
+                  "id": "7",
+                  "title": "Chicken Patties",
+                  "quantity": "12 pcs",
+                  "price": "12",
+                  "img_url": "file:///android_asset/fakedata/images/1007.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2007.jpg"
+              },
+              {
+                  "id": "8",
+                  "title": "Beef Patties",
+                  "quantity": "12 pcs",
+                  "price": "18",
+                  "img_url": "file:///android_asset/fakedata/images/1008.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2008.jpg"
+              },
+              {
+                  "id": "9",
+                  "title": "Chicken Fry",
+                  "quantity": "10 pcs",
+                  "price": "20",
+                  "img_url": "file:///android_asset/fakedata/images/1009.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2009.jpg"
+              },
+              {
+                  "id": "10",
+                  "title": "Chicken Tikka",
+                  "quantity": "10 pcs",
+                  "price": "25",
+                  "img_url": "file:///android_asset/fakedata/images/1010.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2010.jpg"
+              },
+              {
+                  "id": "11",
+                  "title": "Whole Chicken Charga",
+                  "quantity": "",
+                  "price": "25",
+                  "img_url": "file:///android_asset/fakedata/images/1011.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2011.jpg"
+              },
+              {
+                  "id": "12",
+                  "title": "Fish Fry with French Fries",
+                  "quantity": "8 pcs",
+                  "price": "16",
+                  "img_url": "file:///android_asset/fakedata/images/1012.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2012.jpg"
               }
     ],
     "main_dishes": [
